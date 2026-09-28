@@ -2,7 +2,7 @@
 
 GUI-based automated analysis tool for **.IQ** and **.wav** terrestrial signals (HF/VHF/UHF).
 
-## Features
+## Features 
 
 1. **Parameter extraction** — sampling rate, bandwidth, SNR, modulation estimate, FEC/interleaving inference
 2. **Visualizations** — spectrum, waterfall, constellation, I/Q time domain
