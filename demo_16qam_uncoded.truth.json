@@ -1,0 +1,13 @@
+{
+  "file": "demo_16qam_uncoded.wav",
+  "modulation": "16-QAM",
+  "fec": "none",
+  "interleaver": "None",
+  "interleaver_params": {},
+  "sample_rate": 48000.0,
+  "baud": 2400.0,
+  "snr_db": 26.0,
+  "cfo_hz": -90.0,
+  "iq_format": null,
+  "message": "[00] SPECTRA 16-QAM link, report 000: AAA ok. [01] SPECTRA 16-QAM link, report 919: LLLL ok. [02] SPECTRA 16-QAM link, report 838: WWWWW ok. [03] SPECTRA 16-QAM link, report 757: HHHHHH ok. [04] SPECTRA 16-QAM link, report 676: SSSSSSS ok. [05] SPECTRA 16-QAM link, report 595: DDD ok. [06] SPECTRA 16-QAM link, report 514: OOOO ok. [07] SPECTRA 16-QAM link, report 433: ZZZZZ ok. [08] SPECTRA 16-QAM link, report 352: KKKKKK ok."
+}

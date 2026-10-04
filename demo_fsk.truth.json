@@ -1,0 +1,16 @@
+{
+  "file": "demo_fsk.wav",
+  "modulation": "FSK",
+  "fec": "conv",
+  "interleaver": "Diagonal",
+  "interleaver_params": {
+    "rows": 8,
+    "cols": 32
+  },
+  "sample_rate": 48000.0,
+  "baud": 1200.0,
+  "snr_db": 14.0,
+  "cfo_hz": 0.0,
+  "iq_format": null,
+  "message": "SPECTRA DEMO: COMINT workbench decoded this message end-to-end. CRC verified."
+}

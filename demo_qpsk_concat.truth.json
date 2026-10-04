@@ -1,0 +1,16 @@
+{
+  "file": "demo_qpsk_concat.iq",
+  "modulation": "QPSK",
+  "fec": "concat",
+  "interleaver": "Convolutional",
+  "interleaver_params": {
+    "depth": 12,
+    "unit": 1
+  },
+  "sample_rate": 250000.0,
+  "baud": 20000.0,
+  "snr_db": 13.0,
+  "cfo_hz": 1800.0,
+  "iq_format": "cf32",
+  "message": "SPECTRA DEMO: COMINT workbench decoded this message end-to-end. CRC verified."
+}

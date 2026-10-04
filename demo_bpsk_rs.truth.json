@@ -1,0 +1,13 @@
+{
+  "file": "demo_bpsk_rs.wav",
+  "modulation": "BPSK",
+  "fec": "rs",
+  "interleaver": "None",
+  "interleaver_params": {},
+  "sample_rate": 48000.0,
+  "baud": 1200.0,
+  "snr_db": 12.0,
+  "cfo_hz": -220.0,
+  "iq_format": null,
+  "message": "SPECTRA DEMO: COMINT workbench decoded this message end-to-end. CRC verified."
+}
