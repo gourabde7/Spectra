@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: spectra-comint
+    runtime: docker
+    plan: free
+    healthCheckPath: /_stcore/health

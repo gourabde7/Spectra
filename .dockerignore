@@ -1,0 +1,6 @@
+.git
+__pycache__
+*.pptx
+*.png
+!results/*.png
+web
